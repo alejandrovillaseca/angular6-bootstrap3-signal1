@@ -1,0 +1,16 @@
+@media only screen and (max-width: 1150px) {
+    /* insert styles here */
+    nav.navbar.navbar-default.navbar-fixed-top {
+        font-size: 13px;
+    }
+    ul.nav.navbar-nav li a {
+        padding: 11px;
+    }
+    .navbar {
+        min-height: 43px;
+        height: 43px;
+    }
+    .navbar-form {
+        margin-top: 4px;
+    }
+}
